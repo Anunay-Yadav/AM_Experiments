@@ -23,12 +23,12 @@ respective tasks.
     -> Name of the file give an idea of how these experiments are done. Module_Purpose_ModelExplained_WindowSize_AnyOtherTechnique.ipynb 
 2. PPT <br /> 
     -> Contains all the PPT pdf files presented throughout the btp.<br /> 
-3. arg_mining-Main
+3. arg_mining-Main <br /> 
     -> Initial Codebase used to do the experiments <br /> 
-4. AM BTP
+4. AM BTP <br /> 
     -> Results of Experiments and different techniques used <br /> 
     -> Left_mask = results of Left Masking, similarly for Right mask <br /> 
-5. Others
+5. Others <br /> 
     -> Code files used to help with Experiments <br /> 
     -> Report.pdf which provides the summary of the project <br /> 
     -> Some of the Papers that have helped in the project. <br /> 
