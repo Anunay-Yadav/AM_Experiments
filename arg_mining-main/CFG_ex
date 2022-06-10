@@ -1,0 +1,18 @@
+1. 
+
+S -> aSa
+S -> bSb
+S -> c
+
+2.
+
+S -> AcB
+A -> a | aA
+B -> b | bB
+
+3. 
+
+S->AcB
+A->a | b | aA | bA
+B->a | b | Bb | aB
+
