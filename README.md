@@ -18,17 +18,19 @@ any prior knowledge can understand the model’s inner workings and verify it ac
 respective tasks.
 
 ## About this Repository
-1. Experiments
-    -> Contains all the Experiments done.
-2. PPT
-    -> Contains all the PPT pdf files presented throughout the btp.
+1. Experiments <br /> 
+    -> Contains all the Experiments done. <br /> 
+    -> Name of the file give an idea of how these experiments are done. Module_Purpose_ModelExplained_WindowSize_AnyOtherTechnique.ipynb 
+2. PPT <br /> 
+    -> Contains all the PPT pdf files presented throughout the btp.<br /> 
 3. arg_mining-Main
-    -> Initial Codebase used to do the experiments
+    -> Initial Codebase used to do the experiments <br /> 
 4. AM BTP
-    -> Results of Experiments and different techniques used
+    -> Results of Experiments and different techniques used <br /> 
+    -> Left_mask = results of Left Masking, similarly for Right mask <br /> 
 5. Others
-    -> Code files used to help with Experiments
-    -> Report.pdf which provides the summary of the project
-    -> Some of the Papers that have helped in the project.
+    -> Code files used to help with Experiments <br /> 
+    -> Report.pdf which provides the summary of the project <br /> 
+    -> Some of the Papers that have helped in the project. <br /> 
 
 Please read BTP_Report_Sem_2 (3).pdf to get a complete understanding of the project.
